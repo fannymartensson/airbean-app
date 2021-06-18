@@ -1,1 +1,1 @@
-# fannymartensson-airbean-app
+# Airbean-app
