@@ -1,0 +1,85 @@
+{
+  "accounts": [
+    {
+      "username": "Lisa",
+      "password": "pwd100",
+      "email": "lisa@lisa.com"
+    },
+    {
+      "username": "Lina",
+      "password": "pwd100",
+      "email": "lina@lina.com"
+    },
+    {
+      "username": "Hälge",
+      "password": "pwd1",
+      "email": "halge@halge.com"
+    }
+  ],
+  "orders": [
+    {
+      "username": "Lina",
+      "items": [
+        {
+          "quantity": 2,
+          "total": 78,
+          "id": 1,
+          "title": "Bryggkaffe",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 78,
+      "eta": "2021-05-04T08:04:07.019Z",
+      "id": "e5d72cb0-1bad-4c75-a01c-0b12ed2ce538"
+    },
+    {
+      "username": "Lisa",
+      "items": [
+        {
+          "quantity": 5,
+          "total": 245,
+          "id": 4,
+          "title": "Latte Macchiato",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 245,
+      "eta": "2021-05-04T09:01:30.016Z",
+      "id": "4bb3b837-c5f5-4083-82f3-bbef6e49ecc9"
+    },
+    {
+      "username": "Lisa",
+      "items": [
+        {
+          "quantity": 1,
+          "total": 49,
+          "id": 3,
+          "title": "Cappuccino",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 49
+        }
+      ],
+      "total": 49,
+      "eta": "2021-05-04T09:03:23.018Z",
+      "id": "9b618cf1-b445-431a-8ab4-d3784856fb70"
+    },
+    {
+      "username": "Lina",
+      "items": [
+        {
+          "quantity": 3,
+          "total": 117,
+          "id": 6,
+          "title": "Cortado",
+          "desc": "Bryggd på månadens bönor.",
+          "price": 39
+        }
+      ],
+      "total": 117,
+      "eta": "2021-05-06T07:32:58.024Z",
+      "id": "eb05e981-1f6a-45e7-b8b1-0bf075273d19"
+    }
+  ]
+}
